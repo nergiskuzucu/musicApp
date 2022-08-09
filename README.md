@@ -1,3 +1,4 @@
 # musicApp
-*react-nstive
+* react-native
+
 ![image](ss.png)
